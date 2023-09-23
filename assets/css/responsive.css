@@ -1,0 +1,83 @@
+
+
+
+@media(max-width:1440px){
+	.contact-section .form {width: 46%;margin-top: 0%;margin-left: 44%;}
+}
+
+@media(max-width:1024px){
+	.item-img img {margin: 0;}
+	.item-img{display: flex;justify-content: center;margin-bottom: 25px;}
+}
+
+@media(max-width:991px){
+	.navbar-toggler{color: #fff !important;}
+	.navbar .nav-item {display: flex;justify-content: center;}
+	.social-area {margin-top: 38px;  margin-bottom: 36px; text-align: center;}
+	.team-member{margin-bottom: 20px;}
+	.margin-40 {margin: 0;width: 50%;}	
+	.team-member{width: 50%;}
+	.flow{width: 50%;}
+	.item-feature{width: 50%;}
+    .contact-section .form {position: static;width:97%;margin-top:  20px;  margin-left: 0; }
+	.form .form-label { margin: 0;}
+    .foot-content{width: 50%;}
+	.molile{width: 50%;}
+	.number-list{width: 25%;}	
+}
+
+@media(max-width:768px){
+	.number-list{display: flex;justify-content: center; margin-bottom: 17px;}
+	.about-section h3{font-size: 19px;text-align: center;}
+	.about-section p{margin-bottom: 26px; font-size: 16px;padding: 10px;}
+	.team-member .social-info {left: 34%;}
+	.nav-link {margin-top: 10px;}
+	.project-content h3 {text-align: center;}
+}
+
+@media(max-width:575px){
+       .item-content{padding: 54px 17px 98px;} 
+	   .item-content h1{font-size: 34px;}
+	   .item-content ul li a{padding: 10px 15px;}
+	   .item-content {padding: 0px 20px 0px;}
+	   .item-content {margin-top: 20%;}
+	   .banner-section .item {min-height: 525px;}
+	   .margin-40 {margin: 0;}
+	   .about-section, .team-section, .work-section, .feature-section, .contact-section{padding: 50px 0}
+	   .about-section h2{font-size: 30px; ;}
+	   .about-section h3{font-size: 19px;text-align: center;}
+	   .about-section h4{width: 46px; height: 46px; line-height: 46px;}
+	   .section-title{font-size: 30px;margin-bottom: 28px;}
+	   .section-title::before{top: 5px;} 
+	   .social-area ul li .fa{width: 50px; height: 50px; line-height: 50px; margin-left: 20px;}
+	   .team-member{margin-bottom: 20px; width: 100%;}
+	   .flow{width: 100%;}
+	   .margin-40 {margin: 0;width: 100%;}
+	   .item-feature {width: 100%;}
+	   .foot-content {width: 100%;}
+	   .number-list {width: 100%;}
+	   .molile {width: 100%;}
+	   .social-area {text-align: center;}
+	   .service-section {padding: 50px 0 0px 0;}
+	   .service-section .icon{width: 22%;}
+	   .feature-section .col-lg-4{margin-bottom: 20px;}
+	   .feature-section h4{margin-top: 30px;}
+	   .contact-section .map {height: 250px;}	   
+	   .contact-section h3 {margin:0;text-align: center;font-size: 27px;}
+	   .contact-section p {text-align: center;}	   
+	   .contact-section h2 {margin-bottom: 20px}
+	   .contact-section h3{margin-top: 40px;}
+	   .contact-section p{margin-top: 10px; font-size: 16px; line-height: 26px;}
+	   .social-media{margin-top: 8px;}
+	    footer p{margin-top: 9px; font-size: 13px; text-align: center;}
+		footer ul{text-align: center; margin-bottom: 0;}
+	   .social-area ul li .fa {margin-left: 0;}	
+}
+@media(max-width:320px){
+	.banner-section .item {min-height: 440px;}
+	.item-content h1 {font-size: 28px;margin-top: 20px;}
+	.item-content {margin: 0;}
+	.about-section p {margin-bottom: 16px;font-size: 14px;padding: 0px;}
+	.project-content h3 {font-size: 17px;}
+	.foot-content {width: 100%;}
+}
